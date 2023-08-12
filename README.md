@@ -1,4 +1,4 @@
 # LandingPage
 
 
-Um projeto com intuitod de aprendisado sobre css e html.
+um projeto com intuito de aprendizado sobre css e html.
